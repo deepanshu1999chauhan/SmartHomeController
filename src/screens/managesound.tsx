@@ -19,7 +19,7 @@ const managesound = ({ navigation }: { navigation: any }) => {
                   </View>
                   <View style={style.container3}>
                       <View>
-                          <Text style={style.text}>Bedrooms</Text>
+                          <Text style={style.text}>Bedroom</Text>
                           <Text style={style.text2}>Usage today</Text>
                       </View>
                       <TouchableOpacity style={style.touchable}>
